@@ -58,7 +58,7 @@ var dayNum = 0;
 //   11: [{ time: [8, 14] }, 60],
 // };
 
-const port = new SerialPort({ path: "/dev/cu.usbserial-143320", baudRate: 9600 });
+const port = new SerialPort({ path: "/dev/cu.usbserial-143330", baudRate: 9600 });
 const parser = port.pipe(new ReadlineParser({ delimiter: "\r\n" }));
 parser.on("data", console.log);
 
