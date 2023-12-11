@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Cutive+Mono&display=swap');
+
+body {
+  background-color: rgb(35, 35, 35);
+  padding: 0px;
+  margin: 0px;
+  font-family: "Helvetica Neue";
+  font-style: normal;
+}
+
+a:visited {
+  color: rgb(255, 255, 255);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+h1 {
+  color: black;
+}
+
+
+.render{
+  width: 100%; 
+  position: absolute;
+}
+
+#current-date{
+  color: white;
+  position: absolute;
+  font-size: 18px;
+  color: grey;
+  font-weight: 400; 
+  transform: rotate(-3deg) translate(635px, 380px);
+}
+
+#current-time{
+  color: red;
+  position: absolute; 
+  font-size: 30px;
+  color: white; 
+  font-weight: 400; 
+  transform: rotate(-3deg) translate(632px, 400px);
+}
+
+.about{
+  font-size: 15px;
+  position: absolute;
+  transform: translate(950%, 2200%);
+  background-color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 20px;
+  /* border-radius: 5px; */
+}
+
+.livestream{
+  font-size: 15px;
+  position: absolute;
+  transform: translate(958%, 2330%);
+  background-color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 20px;
+}
+
+.about:hover{
+  background-color: rgb(255, 104, 104);
+  color: white;
+  cursor: pointer;
+}
+
+.livestream:hover{
+  background-color: rgb(255, 104, 104);
+  color: white;
+  cursor: pointer;
+}
+
+.abstract{
+  width: 50%;
+  margin-top: 40px;
+  margin-bottom: 50px;
+  line-height: 30px;
+}
+
+.aboutImage{
+  width: 50%;
+}
+
+.aboutLinks{
+  color: white;
+}
+
+.aboutLivestream{
+  right: 0px;
+}
+
+.imgDesc{
+  font-style: italic;
+  font-size: 13px;
+  color: rgb(202, 202, 202);
+}
+
+.links:hover{
+  background-color: rgb(255, 47, 47);
+}

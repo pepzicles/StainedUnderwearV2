@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="index_style.css"/>
+
+    <title>Home Page</title>
+  </head>
+
+  <body>
+    <img class = "render" src = "images/render6.png">
+
+    <h1 id="current-date"></h1>
+    <h1 class = "text", id="current-time"></h1>
+
+    <a class = "about" href = "about.html" style = "color: black">about project →</a>
+    <a class = 'livestream' style = "color: black" href = "livestream.html">livestream →</a>
+
+
+    <script>
+      let time_string = document.getElementById("current-time");
+      let date_string = document.getElementById("current-date");
+      setInterval(() => {
+        const currentTime = new Date();
+        time_string.innerHTML = currentTime.toLocaleTimeString("en-US", {
+          hour12: true,
+        });
+        date_string.innerHTML = currentTime.toDateString();
+      }, 1000);
+    </script>
+  </body>
+</html>
