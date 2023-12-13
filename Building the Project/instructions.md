@@ -1,3 +1,6 @@
+Link to our research paper: https://docs.google.com/document/d/1riK_md2-noeCT2EpTjOqRZSLSGz6CT_NuyUZCUM05jI/edit?usp=sharing
+
+
 Materials list:
 - acryllic sheet
 - 3d print filament (white and gray)
