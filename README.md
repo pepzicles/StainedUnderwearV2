@@ -5,6 +5,9 @@
 
 This project aims to highlight the amount of time, resources and labour one spends coping with menstruation.
 
+Our project sheds light on the often hidden and stigmatized inconveniences people face throughout their lifetime because of menstruation. We thus wish to proudly take ownership of our personal experiences with menstruation, and spark greater conversations around female reproductive health.
+
+#### 1. Collecting the data
 Pepi collected the number of times in which they scrubbed individual underwear stained with menstrual blood over the course of 11 days.
 
 <img width="600px" alt="Screenshot 2023-11-18 at 8 56 01 PM" src="https://github.com/juliadaser/StainedUnderwear/assets/73170145/22bc6cb8-ad5f-41a4-b6df-617c0bb21348">
