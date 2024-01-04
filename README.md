@@ -23,7 +23,6 @@ We will be creating a web interface that shows a digital clock with the clock ru
 We will also be setting up a Raspberry Pi with a webcam camera that faces the robotic arm throughout these 11 days. The footage from the webcam camera will be live-streamed onto Twitch.
 
 There is also an “about” page- essentially a description of the project, as well as a button leading to the livestream on Twitch. 
-![Desktop - 2](https://github.com/juliadaser/StainedUnderwear/assets/73170145/455a9e08-8748-4822-b436-4d2e94ff7604)
 
 <br>
 
@@ -36,9 +35,9 @@ Feel free to modify the dataset in your own API. We used n-point, which gives us
 This was our [n-point API json storage link](https://www.npoint.io/docs/bc3c6d62ee6f6735f00f).
 
 ### More about the project
-Link to our research paper: https://docs.google.com/document/d/1riK_md2-noeCT2EpTjOqRZSLSGz6CT_NuyUZCUM05jI/edit?usp=sharing
+[Link to our research paper](https://docs.google.com/document/d/1riK_md2-noeCT2EpTjOqRZSLSGz6CT_NuyUZCUM05jI/edit?usp=sharing)
 
-Updates:
+### Updates:
 20 Nov 23:
 Successfully set up serial communication between Arduino and Web via node, npm express and nom serial port
 Set up object containing data. The object will send data to the web interface and Arduino.
@@ -47,4 +46,4 @@ Successfully triggered Arduino LED to turn on when it’s a certain time of the 
 Successfully iterated through the day numbers once time reaches 12AM
 
 18 Dec 23: 
-Everything is uploaded
+Everything is uploaded into the github repo, including the 3D models etc! Feel free to modify the API + the project as you see fit!
