@@ -1,14 +1,16 @@
 # Stained Underwear
 ## Julia Daser and Pepi Ng
 
+# This project aims to highlight the amount of time, resources and labour one spends coping with menstruation.
+Pepi collected the number of times in which they scrubbed individual underwear stained with menstrual blood over the course of 11 days.
+
 Link to our research paper: https://docs.google.com/document/d/1riK_md2-noeCT2EpTjOqRZSLSGz6CT_NuyUZCUM05jI/edit?usp=sharing
 
 To run the code:
 - install dependencies
-- npm run develop
+- In the terminal window in your code editor, type and enter: npm run develop
 
-This project aims to highlight the amount of time, resources and labour one spends coping with menstruation.
-Pepi collected the number of times in which they scrubbed individual underwear stained with menstrual blood over the course of 11 days.
+
 
 <img width="600px" alt="Screenshot 2023-11-18 at 8 56 01 PM" src="https://github.com/juliadaser/StainedUnderwear/assets/73170145/22bc6cb8-ad5f-41a4-b6df-617c0bb21348">
 
