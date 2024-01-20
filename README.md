@@ -4,7 +4,6 @@
 Watch our project in action [here](https://www.youtube.com/watch?v=1hBTFRd7460&t=11s&ab_channel=WormiCollective)!
 <br>
 <br>
-<br>
 <img src="/images/2.JPG" alt="Image of project" style = "width: 600px;">
 
 ### About the project
