@@ -35,12 +35,18 @@ There is also an “about” page- essentially a description of the project, as 
 - install dependencies
 - In the terminal window in your code editor, type and enter: npm run develop
 
+<br>
+
 ### To modify the project
 Feel free to modify the dataset in your own API. We used n-point, which gives us an API link that we used in our code. 
 This was our [n-point API json storage link](https://www.npoint.io/docs/bc3c6d62ee6f6735f00f).
 
+<br>
+
 ### More about the project
 [Link to our research paper](https://docs.google.com/document/d/1riK_md2-noeCT2EpTjOqRZSLSGz6CT_NuyUZCUM05jI/edit?usp=sharing)
+
+<br>
 
 ### Updates:
 20 Nov 23:
@@ -49,6 +55,6 @@ Set up object containing data. The object will send data to the web interface an
 Successfully set up a web interface connected to Arduino and to show current time
 Successfully triggered Arduino LED to turn on when it’s a certain time of the day
 Successfully iterated through the day numbers once time reaches 12AM
-
+<br>
 18 Dec 23: 
 Everything is uploaded into the github repo, including the 3D models etc! Feel free to modify the API + the project as you see fit!
