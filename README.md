@@ -1,6 +1,8 @@
 # Stained Underwear
 ## Julia Daser and Pepi Ng
 
+<img src="/images/2.JPG" alt="Image of project" style = "width: 600px;">
+
 ### About the project
 
 This project aims to highlight the amount of time, resources and labour one spends coping with menstruation.
